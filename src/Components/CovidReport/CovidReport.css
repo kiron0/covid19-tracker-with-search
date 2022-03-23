@@ -4,9 +4,8 @@
     border-radius: .9rem;
     padding: 1rem;
     background-image: linear-gradient(180deg, rgba(201, 201, 201, 0.027), rgba(189, 186, 186, 0.089));
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
     color: rgb(77, 72, 72);
-    /* height: 100%; */
 }
 
 .recovered{
